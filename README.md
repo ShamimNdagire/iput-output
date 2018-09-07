@@ -1,2 +1,2 @@
-# iput-output
+# input-output
 day one
